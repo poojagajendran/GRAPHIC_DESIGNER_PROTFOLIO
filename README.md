@@ -31,7 +31,7 @@ A modern and responsive **Graphic Designer Portfolio Website** built using **Rea
 - 📄 Resume download
 - 📧 Contact form integrated with EmailJS
 - 🔗 Social media links
-- 🚀 Easy deployment on Vercel
+- 🚀 Easy deployment on Netlify
 
 ---
 
