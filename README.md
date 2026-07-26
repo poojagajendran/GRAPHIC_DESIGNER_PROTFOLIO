@@ -6,7 +6,7 @@ A modern and responsive **Graphic Designer Portfolio Website** built using **Rea
 
 ## 🌐 Live Demo
 
-🔗 **Portfolio:** https://your-vercel-url.vercel.app
+🔗 **Portfolio:** pooja-designer-protfolio.netlify.app
 
 ---
 
