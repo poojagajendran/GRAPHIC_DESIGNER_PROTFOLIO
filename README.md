@@ -179,11 +179,11 @@ CGPA: **8.48**
 
 📍 Chennai, Tamil Nadu, India
 
-📧 your-email@example.com
+📧 E-mail
 
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+🔗 LinkedIn
 
-🎨 Behance: https://behance.net/your-profile
+
 
 ---
 
